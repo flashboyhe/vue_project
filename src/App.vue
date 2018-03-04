@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-  <!--   <el-button type="primary">主要按钮</el-button>
+  <!--   <el-button type="primary">主要按钮1</el-button>
     <el-form ref="form" :model="form" label-width="80px">
                     <el-form-item label="活动名称">
                       <el-input v-model="form.name"></el-input>

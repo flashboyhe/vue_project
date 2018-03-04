@@ -63,7 +63,7 @@ export default {
   props:['firstItem','secondItem','thirdItem','fourthItem','fifthItem'],
   data () {
     return {
-     msg: '我是jquery的按钮',
+     msg: '我是jquery的按钮1',
      isTrue:true,
      isError:false
     }
