@@ -14,7 +14,7 @@ export default {
   data () {
     return {
       
-	  message:"我是资金管理的第二个页面"
+	  message:"我是资金管理的第二个页面(哈哈哈哈)"
 		
     }
   }
