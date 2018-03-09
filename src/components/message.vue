@@ -60,7 +60,7 @@
           href="http://vuex.vuejs.org/"
           target="_blank"
         >
-          vuex
+          vuex(我是一个vuex，请多关照)
         </a>
       </li>
       <li>
