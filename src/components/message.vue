@@ -32,7 +32,7 @@
           href="https://twitter.com/vuejs"
           target="_blank"
         >
-          Twitter
+          Twitter（我是twitter）
         </a>
       </li>
       <br>
@@ -68,7 +68,7 @@
           href="http://vue-loader.vuejs.org/"
           target="_blank"
         >
-          vue-loader
+          vue-loader(我是vue-loader)
         </a>
       </li>
       <li>
@@ -76,7 +76,7 @@
           href="https://github.com/vuejs/awesome-vue"
           target="_blank"
         >
-          awesome-vue
+          awesome-vue（我是awesome-vue）
         </a>
       </li>
     </ul>
