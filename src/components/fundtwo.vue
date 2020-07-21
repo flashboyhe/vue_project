@@ -7,7 +7,7 @@
       <el-progress type="circle" :percentage="50" status="exception"></el-progress>
   </div>
 </template>
-
+<!-- hahahahahahahahaha -->
 <script>
 export default {
   name: 'fundtwo',
