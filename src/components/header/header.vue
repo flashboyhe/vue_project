@@ -32,7 +32,7 @@
             <div class="hj_tab">
                 <div class="hj_logo jj">
                      <img src="../../assets/hj_ head_portrait.jpg">
-                     <span>闪电科技</span>                     
+                     <span>闪电科技（哈哈哈哈哈哈）</span>                     
                 </div>
                 <div class="hj_tab_items">
                    <ul>
